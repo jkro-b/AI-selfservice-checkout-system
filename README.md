@@ -1,4 +1,6 @@
+
 # AI-selfservice-checkout-system
+## Summary
 Everyone nowadays uses self-service checkout. I am personally sometimes tired of scanning items myself, but also don´t want to wait in the line for normal checkout. So what if the checkout was done by the cash register? My idea is that the cash register would scan the items by himself, you will just need to put your groceries in the area where you normally do.
 
 ## What data should it use?
