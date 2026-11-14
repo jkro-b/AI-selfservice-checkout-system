@@ -1,4 +1,4 @@
-# Project Title
+# AI self service checkout system
 
 Final project for the Building AI course
 
